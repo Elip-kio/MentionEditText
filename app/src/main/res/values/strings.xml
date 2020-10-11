@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MentionEditTextDemo</string>
+    <string name="show_mentions">Show Mentions</string>
+    <string name="mention_symbol">\@</string>
+</resources>
