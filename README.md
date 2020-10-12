@@ -76,7 +76,7 @@
     mentionHandler.getMentionItems()//List<MentionItem>
 ```
 
-##完整Demo
+## 完整Demo
 
 ```kotlin
 this.mentionHandler = MentionUtil.withType(User::class)
