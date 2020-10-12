@@ -1,5 +1,7 @@
 # MentionEditText
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Eclipse-kio/MentionEditText?label=Latest)
+
 一个可定制性优良支持@的输入框组件。支持定制响应字符，自定义高亮Span，输入与数据及时同步。
 
 ## 预览
