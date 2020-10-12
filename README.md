@@ -10,7 +10,11 @@
 
 ### 引入依赖
 
-暂时没上传
+在module下的build.gradle文件中添加如下依赖
+
+```groovy
+    implementation 'studio.kio:MentionLibrary:1.0.0'
+```
 
 ### 使用MentionEditText控件
 

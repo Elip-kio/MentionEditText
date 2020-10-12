@@ -9,7 +9,7 @@ import android.widget.Toast
  * created by KIO on 2020/10/10
  */
 
-class MentionEditText(context: Context, attributeSet: AttributeSet?) :
+open class MentionEditText(context: Context, attributeSet: AttributeSet?) :
     androidx.appcompat.widget.AppCompatEditText(context, attributeSet) {
 
     private var onSelectionChangedListener: OnSelectionChangedListener? = null
